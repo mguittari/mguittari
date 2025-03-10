@@ -10,7 +10,7 @@
 
 <div align="left">
 <div>
-  <p style="text-align: right; text-wrap: wrap;">
+  <p style="text-align: right;  word-wrap: break-word;">
 
     I'm a passionate web developer specialized in JavaScript, React, and Node.js.
 
