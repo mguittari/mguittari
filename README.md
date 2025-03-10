@@ -38,10 +38,10 @@
 </div>
 <div align="center">
 <a href="linkedin.com/in/mattiasguittari">
-  <img style="width: 55px;" src="assets/Linkedin.svg" />
+  <img style="width: 55px; text-decoration: none; border: none; background: none;" src="assets/Linkedin.svg" />
 </a>
 <a href="x.com/mattguittari">
-  <img style="width: 50px;"  src="assets/X.png" />
+  <img style="width: 50px; text-decoration: none; border: none; background: none;" src="assets/X.png" />
 </a>
 </div>
 <p align="center">
