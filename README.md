@@ -10,7 +10,7 @@
 
 <div align="left">
 <div>
-  <p style="text-align: right;  word-wrap: break-word;">
+  <p style="text-align: right; ">
 
     I'm a passionate web developer specialized in JavaScript, React, and Node.js.
 
@@ -38,10 +38,10 @@
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
 <a href="linkedin.com/in/mattiasguittari">
-  <img style="width: 55px;" src="assets/Linkedin.svg" />
+  <img style="width: 50px;" src="assets/Lkd.svg" />
 </a>
 <a href="x.com/mattguittari">
-  <img style="width: 50px;" src="assets/X.png" />
+  <img style="width: 50px;" src="assets/X.svg" />
 </a>
 </div>
 <p align="center">
