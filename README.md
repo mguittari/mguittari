@@ -1,5 +1,5 @@
-<p align="center">
-  <img style="margin-bottom: 8px;" src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
 </p>
 
 ![Title](assets/Title.png)
@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguittari&layout=compact&hide=shell,dockerfile&theme=merko">
 </div>
-<p align="center" style="margin-top: 20px">
+<p align="center" style="margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
 
