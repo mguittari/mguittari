@@ -31,17 +31,10 @@
 ---
 
 
-<div align="center" style="margin-top: 15px;">
+<div align="center" style="margin-top: 15px; margin-bottom: 15px">
   <img  src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
 </div>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-<a href="linkedin.com/in/mattiasguittari">
-  <img style="width: 50px;" src="assets/Lkd.svg" />
-</a>
-<a href="x.com/mattguittari">
-  <img style="width: 50px;" src="assets/X.svg" />
-</a>
-</div>
+
 <p align="center" style="margin-top: 0;">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
