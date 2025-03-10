@@ -1,4 +1,4 @@
-<p align="center" style="margin-bottom: 10px;">
+<p align="center" style="margin-bottom: 0px;">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
 </p>
 
