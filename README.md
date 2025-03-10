@@ -16,7 +16,7 @@
   </p>
 </div>
 <div align="center">
-  <p align="left" style="margin-bottom: 10px">
+  <p align="left" style="margin-bottom: 15px">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
     <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white" />
