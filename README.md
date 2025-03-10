@@ -16,7 +16,7 @@
   </p>
 </div>
 <div align="center">
-  <p align="center">
+  <p align="left" style="margin-bottom: 10px">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
     <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white" />
@@ -27,15 +27,17 @@
     <img src="https://img.shields.io/badge/Figma-violet?style=flat&logo=figma&logoColor=white" />
   </p>
 </div>
-<div align="center">
+
+---
+
+
+<div align="center" style="margin-top: 15px;">
   <img  src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
 <a href="linkedin.com/in/mattiasguittari">
   <img style="width: 50px;" src="assets/Lkd.svg" />
 </a>
-
-
 <a href="x.com/mattguittari">
   <img style="width: 50px;" src="assets/X.svg" />
 </a>
