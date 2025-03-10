@@ -2,26 +2,36 @@
   <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
 </head>
 
-![Image](https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Image" />
+</p>
 
 
- <p>I'm a passionate web developer specialized in JavaScript, React and Node.js.  
 
-💻 I love building modern and efficient web applications.  
-🚀 Always learning and exploring new technologies.  
-🎨 Interested in creative coding and experimental web design. </p>
+ <div align="center">
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 5px; margin-top: 25px">
-  <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white&logoSize=auto" />
-  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Node-gold?style=flat&logo=nodedotjs&logoColor=black&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Express-green?style=flat&logo=express&logoColor=white&logoSize=auto" />
-  <img src="https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=mysql&logoColor=white&logoSize=auto
-  " />
-  <img src="https://img.shields.io/badge/Figma-violet?style=flat&logo=figma&logoColor=white&logoSize=auto
-  " />
+  <p style="text-align: left; max-width: 600px;">
+    I'm a passionate web developer specialized in JavaScript, React, and Node.js.  
+    💻 I love building modern and efficient web applications.  
+    🚀 Always learning and exploring new technologies.  
+    🎨 Interested in creative coding and experimental web design.  
+  </p>
+
+</div>
+
+<div align="center">
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
+    <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node-gold?style=flat&logo=nodedotjs&logoColor=black" />
+    <img src="https://img.shields.io/badge/Express-green?style=flat&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-violet?style=flat&logo=figma&logoColor=white" />
+  </p>
+
 </div>
 
 <div style="margin-top: 25px;">
@@ -37,4 +47,6 @@
 </a>
 </div>
 
-![Image](https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Image" />
+</p>
