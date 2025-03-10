@@ -5,8 +5,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Image" />
 </p>
-<div align="center">
-  <p style="text-align: left; max-width: 600px; text-wrap: wrap;">
+
+![Title](assets/Title.png)
+
+<div align="left">
+<div>
+  <p style="text-align: right; text-wrap: wrap;">
+
     I'm a passionate web developer specialized in JavaScript, React, and Node.js.
 
     💻 I love building modern and efficient web applications.
@@ -15,6 +20,7 @@
 
     🎨 Interested in creative coding and experimental web design.  
   </p>
+  </div>
 <div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
