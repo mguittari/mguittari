@@ -15,7 +15,7 @@
 🎨 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚊𝚕 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗.
   </p>
 </div>
-<div align="center">
+<div align="center" style="margin-top: 25px;">
   <p align="left" style="margin-bottom: 10px">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
