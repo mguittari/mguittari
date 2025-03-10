@@ -1,28 +1,23 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
-</head>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Image" />
+  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
 </p>
 
 ![Title](assets/Title.png)
 
 <div align="left">
 <div>
-  <p style="text-align: right; ">
+  <p style="text-align: left;">
+    𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝚁𝚎𝚊𝚌𝚝, 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎.𝚓𝚜.
 
-    I'm a passionate web developer specialized in JavaScript, React, and Node.js.
+💻 𝙸 𝚕𝚘𝚟𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚊𝚗𝚍 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
 
-    💻 I love building modern and efficient web applications.
+🚀 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
 
-    🚀 Always learning and exploring new technologies.
-
-    🎨 Interested in creative coding and experimental web design.  
+🎨 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚊𝚕 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗.
   </p>
   </div>
 <div align="center">
-  <p align="center">
+  <p align="left">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
     <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white" />
@@ -44,7 +39,7 @@
   <img style="width: 50px;" src="assets/X.svg" />
 </a>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Image" />
+<p align="center" style="margin-top: 0;">
+  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
 </div>
