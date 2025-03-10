@@ -2,8 +2,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
 </head>
 
-![Image](assets\ban4.png)
-  <span style="font-family: 'Jersey 10', sans-serif; font-size: 40px; display: flex; justify-content: center; ">Matt Guittari - Web developper</span>
+![Image](https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png)
+
 
  <p>I'm a passionate web developer specialized in JavaScript, React and Node.js.  
 
@@ -37,4 +37,4 @@
 </a>
 </div>
 
-![Image](assets\ban7.png)
+![Image](https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png)
