@@ -40,7 +40,7 @@
 <a href="linkedin.com/in/mattiasguittari">
   <img style="width: 55px;" src="assets/Linkedin.svg" />
 </a>
-<a href="linkedin.com/">
+<a href="x.com/mattguittari">
   <img style="width: 50px;"  src="assets/X.png" />
 </a>
 </div>
