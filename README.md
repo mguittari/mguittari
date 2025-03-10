@@ -4,7 +4,6 @@
 
 ![Title](assets/Title.png)
 
-<div align="left">
 <div>
   <p style="text-align: left;">
     𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝚁𝚎𝚊𝚌𝚝, 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎.𝚓𝚜.
@@ -15,9 +14,9 @@
 
 🎨 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚊𝚕 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗.
   </p>
-  </div>
+</div>
 <div align="center">
-  <p align="left">
+  <p align="center">
     <img src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-lightblue?style=flat&logo=tailwindcss&logoColor=black" />
     <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white" />
@@ -35,6 +34,8 @@
 <a href="linkedin.com/in/mattiasguittari">
   <img style="width: 50px;" src="assets/Lkd.svg" />
 </a>
+
+
 <a href="x.com/mattguittari">
   <img style="width: 50px;" src="assets/X.svg" />
 </a>
@@ -42,4 +43,4 @@
 <p align="center" style="margin-top: 0;">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
-</div>
+
