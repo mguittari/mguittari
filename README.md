@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
+  <img style="margin-bottom: 8px;" src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
 </p>
 
 ![Title](assets/Title.png)
@@ -30,12 +30,12 @@
 
 ---
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguittari&layout=compact&hide=shell,dockerfile&theme=merko">
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
+  <img style="margin-top: 20px;" src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
 
