@@ -30,7 +30,7 @@
 
 ---
 
-<div align="center" style="margin: 20px 0px;">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguittari&layout=compact&hide=shell,dockerfile&theme=merko">
 </div>
