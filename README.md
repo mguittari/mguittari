@@ -1,4 +1,4 @@
-<p align="center" style="margin-bottom: 0px;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban4.png" alt="Banner top" />
 </p>
 
@@ -34,7 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mguittari&show_icons=true&theme=merko&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguittari&layout=compact&hide=shell,dockerfile&theme=merko">
 </div>
-<p align="center" style="margin-top: 10px;">
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/mguittari/mguittari/main/assets/ban7.png" alt="Banner bottom" />
 </p>
 
